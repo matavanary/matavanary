@@ -7,14 +7,14 @@
 
 <p align="center"> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-  <img src="https://komarev.com/ghpvc/?username=matavanary&label=จำนวนผู้เข้าชม&color=0e75b6&style=flat"/>
+<!--   <img src="https://komarev.com/ghpvc/?username=matavanary&label=จำนวนผู้เข้าชม&color=0e75b6&style=flat"/> -->
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
 </p>
 
-<!--
-<br> <img src="https://profile-counter.glitch.me/matavanary/count.svg" alt="matavanary" />
+
+<br>จำนวนผู้เข้าชม<br><img src="https://profile-counter.glitch.me/matavanary/count.svg" alt="matavanary" />
 <br>
-##  -->
+## 
 
 
 <h3 align="left">Connect with me:</h3>
