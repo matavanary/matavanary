@@ -32,7 +32,7 @@
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,mysql,ps,php,pr,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,mysql,php,github,vscode,ps,pr" />
 <!--   <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/matavanary/MY_PROJECT/blob/main/PNG/1-HTML.png" alt="html" width="50" height="60"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/matavanary/MY_PROJECT/blob/main/PNG/2-CSS.png" width="50" height="60"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/matavanary/MY_PROJECT/blob/main/PNG/3-JS.png" width="50" height="60"/> </a> 
