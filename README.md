@@ -12,9 +12,9 @@
 </p>
 
 
-<br>จำนวนผู้เข้าชม<br><img src="https://profile-counter.glitch.me/matavanary/count.svg" alt="matavanary" />
+<!-- <br>จำนวนผู้เข้าชม<br><img src="https://profile-counter.glitch.me/matavanary/count.svg" alt="matavanary" />
 <br>
-## 
+##  -->
 
 
 <h3 align="left">Connect with me:</h3>
