@@ -13,7 +13,7 @@
 
 [E-Training System ระบบฝึกอบรม](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/e-Training%20System)
 
-[Examination Online ระบบข้อสอบออนไลน์](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/exam%20online)
+[Exam Online ระบบข้อสอบออนไลน์](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/exam%20online)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
