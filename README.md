@@ -19,9 +19,9 @@
 
 1. [เว็บไซต์หน้าเดียว แบบที่ 1](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/Matavanary001)
 
-2. [e-Training System ระบบฝึกอบรม](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/e-Training%20System)
+2. [E-Training System ระบบฝึกอบรม](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/e-Training%20System)
 
-3. [exam online ระบบข้อสอบออนไลน์](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/exam%20online)
+3. [Exam Online ระบบข้อสอบออนไลน์](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/exam%20online)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,6 +64,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matavanary&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FF4500&ring=FF4500&currStreakNum=F1F1F1&sideNums=E2E0DE&currStreakLabel=FF4E01&sideLabels=FF5600&stroke=FF4500&fire=FE4906&dates=E5E5E5)](https://git.io/streak-stats" />
 </p>
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matavanary&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=matavanary&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="matavanary"/>
 </p>
