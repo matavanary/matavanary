@@ -9,11 +9,23 @@
 
 # Examples of work
 
-[Landing Page เว็บไซต์หน้าเดียว](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/Matavanary001)
+[เว็บไซต์หน้าเดียว](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/Matavanary001)
 
 [E-Training System ระบบฝึกอบรม](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/e-Training%20System)
 
 [Exam Online ระบบข้อสอบออนไลน์](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/exam%20online)
+
+[IRKS ระบบโครงการบ้านจัดสรรไอยรา](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/IRKS)
+
+[CNACCOUNT ระบบแจ้งเตือนผ่านไลน์ของสำนักงานบัญชี](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/CNACCOUNT)
+
+[MakeMoney ระบบบันทึกเงินเข้า - ออกบัญชี](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/MakeMoney)
+
+[AMULET ระบบสถาบันรับรองพระเครื่องเมืองชลฯ](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/AMULET)
+
+[E-Maintenance ระบบแจ้งซ่อมออนไลน์](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/EMS)
+
+[Student Helping ระบบดูแลนักเรียนออนไลน์](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/StudentHelping)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
