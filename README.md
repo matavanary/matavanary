@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://www.facebook.com/ID.GRKCaesar](https://www.facebook.com/enombanstudio)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matavanary" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/enombanstudio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matavanary" height="40" width="40" /></a>
   <a href="https://line.me/ti/p/vcxFDIaEft" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LINE_logo.svg/800px-LINE_logo.svg.png" alt="matavanary" height="40" width="40" /></a>
 </p>
 
