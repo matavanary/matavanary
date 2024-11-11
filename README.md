@@ -40,6 +40,7 @@
   <img src="https://skillicons.dev/icons?i=js" title="Javascript"/>
   <img src="https://skillicons.dev/icons?i=php" title="PHP"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS"/>
   <img src="https://skillicons.dev/icons?i=jquery" title="jQuery"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySql"/>
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
