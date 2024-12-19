@@ -44,16 +44,16 @@
   <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=js" title="Javascript"/>
+  <img src="https://skillicons.dev/icons?i=jquery" title="jQuery"/>
   <img src="https://skillicons.dev/icons?i=php" title="PHP"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS"/>
-  <img src="https://skillicons.dev/icons?i=jquery" title="jQuery"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySql"/>
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=github" title="Github"/>
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/>
   <img src="https://skillicons.dev/icons?i=atom" title="Atom"/>
+  <img src="https://skillicons.dev/icons?i=github" title="Github"/>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
   <img src="https://skillicons.dev/icons?i=ps" title="Photoshop"/>
 </p>
 
