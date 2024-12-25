@@ -25,7 +25,7 @@
 
 [CNACCOUNT ระบบแจ้งเตือนผ่านไลน์ของสำนักงานบัญชี](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/CNACCOUNT)
 
-[MakeMoney ระบบบันทึกเงินเข้า - ออกบัญชี](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/MakeMoney)
+[MakeMoney ระบบบันทึกเงินเข้า-ออกบัญชี](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/MakeMoney)
 
 [AMULET ระบบสถาบันรับรองพระเครื่องเมืองชลฯ](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/AMULET)
 
