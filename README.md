@@ -15,9 +15,7 @@
 
 ## 🌐 ตัวอย่างผลงาน
 
-<!-- [Landing Page เว็บไซต์หน้าเดียว](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/Matavanary001) -->
-<a href="https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/Matavanary001" target="_blank">Landing Page เว็บไซต์หน้าเดียว</a>
-
+[Landing Page เว็บไซต์หน้าเดียว](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/Matavanary001) 
 
 [E-Training System ระบบฝึกอบรม](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/e-Training%20System)
 
