@@ -33,6 +33,10 @@
 
 [Student Helping (Online Student Support System)](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/StudentHelping)
 
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matavanary)
+
+
 ## 📫 Social Media & Contact Me
 <p align="left">
   <a href="https://www.facebook.com/enombanstudio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matavanary" height="40" width="40" /></a>
@@ -71,7 +75,6 @@
 <!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=matavanary&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="matavanary"/></p>
 -->
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matavanary&theme=dark)</br>
 ![](https://github-readme-streak-stats.herokuapp.com?user=matavanary&theme=dark-smoky&hide_border=true&border_radius=10)</br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matavanary&theme=dark)</br>
