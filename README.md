@@ -51,12 +51,16 @@
   <img src="https://skillicons.dev/icons?i=jquery" title="jQuery"/>
   <img src="https://skillicons.dev/icons?i=php" title="PHP"/>
   <img src="https://skillicons.dev/icons?i=bun" title="BUN"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySql"/>
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/>
   <img src="https://skillicons.dev/icons?i=atom" title="Atom"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" title="Github"/>
   <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
   <img src="https://skillicons.dev/icons?i=ps" title="Photoshop"/>
