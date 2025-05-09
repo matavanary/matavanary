@@ -48,6 +48,7 @@
   <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=js" title="Javascript"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=jquery" title="jQuery"/>
   <img src="https://skillicons.dev/icons?i=php" title="PHP"/>
   <img src="https://skillicons.dev/icons?i=bun" title="BUN"/>
