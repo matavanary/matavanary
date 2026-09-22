@@ -6,10 +6,6 @@
 
 <br/>
 
-**🇬🇧 English &nbsp; • &nbsp; 🇹🇭 ภาษาไทย**
-
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=matavanary&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge)
 [![Thailand](https://img.shields.io/badge/BASED_IN-THAILAND-0E75B6?style=for-the-badge)](https://github.com/matavanary)
 
