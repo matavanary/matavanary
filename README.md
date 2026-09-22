@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me · เกี่ยวกับผม
+## 👨‍💻 About Me
 
 ```yaml
 name: Matavanary Studio
@@ -28,35 +28,33 @@ exploring: [Bun, Node.js, Python, Golang]
 location: Thailand 🇹🇭
 ```
 
-🇬🇧 EN — I build practical software around real business workflows, from requirements and database design to APIs, dashboards, automation, and deployment. I am currently responsible for developing, maintaining, and continuously improving production systems actively used within the organization, including a Repair Request System, Truck Inspection System, Online Training System, Work Tracking System, and Transportation System. My responsibilities cover business workflow design, system integration, status tracking, reporting, production support, and ongoing improvements based on actual operational needs. For the Truck Inspection System, I also take on the role of Project Owner, overseeing the project from business requirements through implementation and continuous improvement.
+I build practical software around real business workflows, from requirements and database design to APIs, dashboards, automation, and deployment. I am currently responsible for developing, maintaining, and continuously improving production systems actively used within the organization, including a Repair Request System, Truck Inspection System, Online Training System, Work Tracking System, and Transportation System. My responsibilities cover business workflow design, system integration, status tracking, reporting, production support, and ongoing improvements based on actual operational needs. For the Truck Inspection System, I also take on the role of Project Owner, overseeing the project from business requirements through implementation and continuous improvement.
 
-🇹🇭 TH — ผมพัฒนาระบบจากปัญหาและกระบวนการทำงานจริงของธุรกิจ ตั้งแต่การเก็บ Requirement, ออกแบบฐานข้อมูล, พัฒนา API และ Dashboard ไปจนถึง Automation และ Deployment ปัจจุบันรับผิดชอบการพัฒนา ดูแล และปรับปรุง ระบบ Production ที่มีการใช้งานจริงภายในองค์กร ได้แก่ ระบบแจ้งซ่อม, ระบบตรวจสอบรถบรรทุก, ระบบฝึกอบรมออนไลน์, ระบบติดตามงาน และระบบขนส่ง โดยรับผิดชอบตั้งแต่การออกแบบ Workflow การเชื่อมโยงระบบ การติดตามสถานะ การจัดทำรายงาน การดูแลระบบหลังขึ้น Production ตลอดจนการปรับปรุงระบบตามความต้องการใช้งานจริงของแต่ละหน่วยงาน และสำหรับ ระบบตรวจสอบรถบรรทุก ยังรับผิดชอบในบทบาท Project Owner ดูแลโครงการตั้งแต่ Requirement ไปจนถึงการนำระบบขึ้นใช้งานและปรับปรุงอย่างต่อเนื่อง
-
-> 💡 **My mindset · แนวคิดในการทำงาน** — Turn complicated manual processes into systems that are simple, measurable, and useful. · เปลี่ยนงาน Manual ที่ซับซ้อนให้เป็นระบบที่ใช้ง่าย วัดผลได้ และช่วยคนทำงานได้จริง
+> 💡 **My mindset** — Turn complicated manual processes into systems that are simple, measurable, and useful.
 
 ---
 
-## 🎯 Current Focus · สิ่งที่กำลังโฟกัส
+## 🎯 Current Focus
 
-| | English | ภาษาไทย |
+| | Focus | Description |
 | :--: | :-- | :-- |
-| 🚚 | **Truck Inspection** — inspection workflow, repair integration & reporting | **ระบบตรวจสอบรถบรรทุก** — ขั้นตอนการตรวจรถ เชื่อมโยงงานซ่อม และรายงาน |
-| 🔧 | **E-Maintenance** — repair requests & mechanic performance | **E-Maintenance** — งานแจ้งซ่อมและประสิทธิภาพการทำงานของช่าง |
-| 📊 | **Business Systems** — dashboards, Excel/PDF reports & data workflows | **ระบบธุรกิจ** — Dashboard, รายงาน Excel/PDF และกระบวนการข้อมูล |
-| ⚡ | **API & Automation** — integrations and repetitive-work reduction | **API & Automation** — เชื่อมต่อระบบและลดงานที่ต้องทำซ้ำ |
-| 🧪 | **Modern Backend** — Bun, Node.js, Python/FastAPI & Go | **Modern Backend** — ศึกษา Bun, Node.js, Python/FastAPI และ Go |
+| 🚚 | **Truck Inspection** | inspection workflow, repair integration & reporting |
+| 🔧 | **E-Maintenance** | repair requests & mechanic performance |
+| 📊 | **Business Systems** | dashboards, Excel/PDF reports & data workflows |
+| ⚡ | **API & Automation** | integrations and repetitive-work reduction |
+| 🧪 | **Modern Backend** | Bun, Node.js, Python/FastAPI & Go |
 
 ---
 
-## 🧰 Tech Stack · เทคโนโลยีที่ใช้
+## 🧰 Tech Stack
 
 <div align="center">
 
-**CORE / ใช้งานหลัก**
+**CORE**
 
 [![Core](https://skillicons.dev/icons?i=php,js,ts,html,css,jquery&theme=dark)](https://skillicons.dev)
 
-**BACKEND / กำลังต่อยอด**
+**BACKEND**
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,bun,python,fastapi,flask,go&theme=dark)](https://skillicons.dev)
 
@@ -76,7 +74,7 @@ location: Thailand 🇹🇭
 
 ---
 
-## 🧭 How I Build · วิธีทำงาน
+## 🧭 How I Build
 
 <div align="center">
 
@@ -84,25 +82,24 @@ location: Thailand 🇹🇭
 
 **Requirement** → **Workflow / Database** → **Development** → **API / System** → **Production** → **Measure & Iterate**
 
-เข้าใจปัญหา → ออกแบบ → พัฒนา → เชื่อมต่อ → นำขึ้นใช้งาน → วัดผลและปรับปรุง
 
 </div>
 
 ---
 
-## 🌟 Featured Projects · ผลงานเด่น
+## 🌟 Featured Projects
 
-| Project | Description · รายละเอียด | Focus |
+| Project | Description | Focus |
 | :--- | :--- | :--- |
-| 🚚 **Truck Inspection System** | Truck inspection & operational management · ระบบตรวจสอบและบริหารงานรถบรรทุก | Ownership · Workflow · Integration |
-| 🔧 [**E-Maintenance**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/EMS) | Online repair request & maintenance · ระบบแจ้งซ่อมและงานบำรุงรักษา | PHP · Database · Reporting |
-| 🎓 [**E-Training System**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/e-Training%20System) | Employee training platform · ระบบฝึกอบรมออนไลน์ | Web App · Training |
-| 📝 [**Exam Online**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/exam%20online) | Online examination · ระบบสอบออนไลน์ | Web App · Assessment |
-| 🏘️ [**IRKS**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/IRKS) | Housing project management · ระบบบริหารโครงการหมู่บ้าน | Business System |
-| 💰 [**MakeMoney**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/MakeMoney) | Income & expense tracking · ระบบบันทึกรายรับรายจ่าย | Finance · Dashboard |
+| 🚚 **Truck Inspection System** | Truck inspection & operational management | Ownership · Workflow · Integration |
+| 🔧 [**E-Maintenance**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/EMS) | Online repair request & maintenance | PHP · Database · Reporting |
+| 🎓 [**E-Training System**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/e-Training%20System) | Employee training platform | Web App · Training |
+| 📝 [**Exam Online**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/exam%20online) | Online examination | Web App · Assessment |
+| 🏘️ [**IRKS**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/IRKS) | Housing project management | Business System |
+| 💰 [**MakeMoney**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/MakeMoney) | Income & expense tracking | Finance · Dashboard |
 
 <details>
-<summary><b>📦 More Projects · ดูโปรเจกต์เพิ่มเติม</b></summary>
+<summary><b>📦 More Projects</b></summary>
 <br/>
 
 - 🌐 [Landing Page — Single-Page Website](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/Matavanary001)
@@ -114,21 +111,9 @@ location: Thailand 🇹🇭
 
 ---
 
-## 📊 GitHub Analytics · สถิติ GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=matavanary&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=matavanary&show_icons=true&hide_border=true&theme=default&rank_icon=github">
-  <img height="170" alt="Matavanary GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=matavanary&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matavanary&layout=compact&hide_border=true&theme=tokyonight&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matavanary&layout=compact&hide_border=true&theme=default&langs_count=8">
-  <img height="170" alt="Matavanary top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matavanary&layout=compact&hide_border=true&theme=tokyonight&langs_count=8">
-</picture>
 
 <br/>
 
@@ -140,11 +125,11 @@ location: Thailand 🇹🇭
 
 </div>
 
-> ℹ️ Language statistics are based on code in public repositories and do not represent overall professional experience. · สถิติภาษาอ้างอิงจากโค้ดใน Public Repository และไม่ได้สะท้อนประสบการณ์การทำงานทั้งหมด
+> ℹ️ Language statistics are based on code in public repositories and do not represent overall professional experience.
 
 ---
 
-## 🐍 Contribution Journey · เส้นทาง Contribution
+## 🐍 Contribution Journey
 
 <div align="center">
 
@@ -154,17 +139,15 @@ location: Thailand 🇹🇭
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/matavanary/matavanary/output/github-snake.svg">
 </picture>
 
-<sub>Generated automatically from my GitHub contribution graph · สร้างอัตโนมัติจาก GitHub Contribution</sub>
+<sub>Generated automatically from my GitHub contribution graph</sub>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect · ติดต่อพูดคุย
+## 🤝 Let's Connect
 
-🇬🇧 I'm open to conversations around **backend development, APIs, system integration, business applications, automation**, and interesting technical challenges.
-
-🇹🇭 ยินดีพูดคุยเกี่ยวกับ **Backend, API, System Integration, Business Application, Automation** รวมถึงโปรเจกต์ที่มีโจทย์ทางเทคนิคที่น่าสนใจ
+I'm open to conversations around **backend development, APIs, system integration, business applications, automation**, and interesting technical challenges.
 
 <div align="center">
 
@@ -185,7 +168,7 @@ location: Thailand 🇹🇭
 
 ### 💜 Build. Learn. Improve. Repeat.
 
-**Thanks for stopping by! · ขอบคุณที่แวะเข้ามาชมครับ 👋**
+**Thanks for stopping by! 👋**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,45:203A43,100:6C63FF&height=125&section=footer)
 
