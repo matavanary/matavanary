@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![English](https://img.shields.io/badge/Language-English-6C63FF?style=for-the-badge)](README.md)
+<!-- [![English](https://img.shields.io/badge/Language-English-6C63FF?style=for-the-badge)](README.md) -->
 [![Thai](https://img.shields.io/badge/Language-Thai-00A98F?style=for-the-badge)](README_TH.md)
 
 </div>
