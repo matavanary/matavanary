@@ -6,8 +6,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=matavanary&label=ยอดเข้าชมโปรไฟล์&color=6C63FF&style=for-the-badge)
-[![Thailand](https://img.shields.io/badge/อาศัยใน-THAILAND-0E75B6?style=for-the-badge)](https://github.com/matavanary)
+![Profile Views](https://komarev.com/ghpvc/?username=matavanary&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge)
+[![Thailand](https://img.shields.io/badge/BASED_IN-THAILAND-0E75B6?style=for-the-badge)](https://github.com/matavanary)
 
 </div>
 
