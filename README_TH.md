@@ -1,8 +1,8 @@
 <div align="center">
 
-![Matavanary Studio](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,45:203A43,100:6C63FF&height=230&section=header&text=MATAVANARY%20STUDIO&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%E2%80%A2%20System%20Builder%20%E2%80%A2%20Project%20Owner&descAlignY=56&animation=fadeIn)
+![Matavanary Studio](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,45:203A43,100:6C63FF&height=230&section=header&text=MATAVANARY%20STUDIO&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=นักพัฒนา%20Backend%20%E2%80%A2%20นักพัฒนาระบบ%20%E2%80%A2%20ผู้รับผิดชอบโครงการ&descAlignY=56&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=850&color=8B83FF&center=true&vCenter=true&width=780&lines=Building+systems+that+solve+real-world+problems;PHP+%7C+MySQL+%7C+SQL+Server+%7C+JavaScript;Backend+%7C+API+%7C+Integration+%7C+Automation;From+business+requirements+to+production+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=850&color=8B83FF&center=true&vCenter=true&width=780&lines=พัฒนาระบบเพื่อแก้ปัญหาการทำงานจริง;PHP+%7C+MySQL+%7C+SQL+Server+%7C+JavaScript;Backend+%7C+API+%7C+การเชื่อมต่อระบบ+%7C+Automation;ตั้งแต่+Requirement+จนถึงระบบ+Production+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
