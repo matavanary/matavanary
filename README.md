@@ -11,7 +11,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=matavanary&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/matavanary?label=FOLLOWERS&style=for-the-badge&logo=github&color=161B22)](https://github.com/matavanary?tab=followers)
 [![Thailand](https://img.shields.io/badge/BASED_IN-THAILAND-0E75B6?style=for-the-badge)](https://github.com/matavanary)
 
 </div>
@@ -29,9 +28,9 @@ exploring: [Bun, Node.js, Python, Golang]
 location: Thailand 🇹🇭
 ```
 
-🇬🇧 **EN** — I build practical software around real business workflows, from requirements and database design to APIs, dashboards, automation, deployment, and production support. I currently work as the **Project Owner of a Truck Inspection System**, designing inspection workflows, repair-request integration, status tracking, and operational reporting.
+🇬🇧 EN — I build practical software around real business workflows, from requirements and database design to APIs, dashboards, automation, and deployment. I have experience developing and maintaining production systems actively used within the organization, including a Repair Request System, Truck Inspection System, Online Training System, Work Tracking System, and Transportation System. I currently work as the Project Owner of the Truck Inspection System, designing inspection workflows, repair-request integration, status tracking, and operational reporting.
 
-🇹🇭 **TH** — ผมพัฒนาระบบจากปัญหาและกระบวนการทำงานจริงของธุรกิจ ตั้งแต่การเก็บ Requirement, ออกแบบฐานข้อมูล, พัฒนา API และ Dashboard ไปจนถึง Automation, Deployment และดูแลระบบ Production ปัจจุบันรับผิดชอบในบทบาท **Project Owner ของระบบตรวจสอบรถบรรทุก** ครอบคลุม Workflow การตรวจรถ การเชื่อมโยงงานซ่อม การติดตามสถานะ และรายงานสำหรับงานปฏิบัติการ
+🇹🇭 TH — ผมพัฒนาระบบจากปัญหาและกระบวนการทำงานจริงของธุรกิจ ตั้งแต่การเก็บ Requirement, ออกแบบฐานข้อมูล, พัฒนา API และ Dashboard ไปจนถึง Automation และ Deployment โดยมีประสบการณ์พัฒนาและดูแล ระบบ Production ที่มีการใช้งานจริงภายในองค์กร ได้แก่ ระบบแจ้งซ่อม, ระบบตรวจสอบรถบรรทุก, ระบบฝึกอบรมออนไลน์, ระบบติดตามงาน และระบบขนส่ง ปัจจุบันรับผิดชอบในบทบาท Project Owner ของระบบตรวจสอบรถบรรทุก ครอบคลุม Workflow การตรวจรถ การเชื่อมโยงงานซ่อม การติดตามสถานะ และรายงานสำหรับงานปฏิบัติการ
 
 > 💡 **My mindset · แนวคิดในการทำงาน** — Turn complicated manual processes into systems that are simple, measurable, and useful. · เปลี่ยนงาน Manual ที่ซับซ้อนให้เป็นระบบที่ใช้ง่าย วัดผลได้ และช่วยคนทำงานได้จริง
 
