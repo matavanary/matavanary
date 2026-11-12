@@ -2,7 +2,7 @@
 
 ![Matavanary Studio](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,45:203A43,100:6C63FF&height=230&section=header&text=MATAVANARY%20STUDIO&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%E2%80%A2%20System%20Builder%20%E2%80%A2%20Project%20Owner&descAlignY=56&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=850&color=8B83FF&center=true&vCenter=true&width=780&lines=Building+systems+that+solve+real-world+problems;PHP+%7C+MySQL+%7C+SQL+Server+%7C+JavaScript;Backend+%7C+API+%7C+Integration+%7C+Automation;From+business+requirements+to+production+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=850&color=8B83FF&center=true&vCenter=true&width=780&lines=Building+systems+that+solve+real-world+problems;PHP+%7C+Rust+%7C+MySQL+%7C+SQL+Server+%7C+WebSockets;Backend+%7C+API+%7C+System+Integration+%7C+Automation;Co-Developer+%40+Craft+Anything+%F0%9F%A6%80;From+business+requirements+to+production+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,11 +27,12 @@ name: Matavanary Studio
 role: Senior PHP Programmer / Project Owner
 focus: [Backend, API, Business Systems, Integration, Automation]
 core: [PHP, MySQL, SQL Server, JavaScript]
-exploring: [Bun, Node.js, Python, Golang]
+exploring: [Bun, Node.js, Python, Golang, Rust]
+open_source: [Co-Developer of Craft Anything]
 location: Thailand 🇹🇭
 ```
 
-I build practical software around real business workflows, from requirements and database design to APIs, dashboards, automation, and deployment. I am currently responsible for developing, maintaining, and continuously improving production systems actively used within the organization, including a Repair Request System, Truck Inspection System, Online Training System, Work Tracking System, and Transportation System. My responsibilities cover business workflow design, system integration, status tracking, reporting, production support, and ongoing improvements based on actual operational needs. For the Truck Inspection System, I also take on the role of Project Owner, overseeing the project from business requirements through implementation and continuous improvement.
+I build practical software around real business workflows, from requirements and database design to APIs, dashboards, automation, and deployment. I am currently responsible for developing, maintaining, and continuously improving production systems actively used within the organization, including a Repair Request System, Truck Inspection System, Online Training System, Work Tracking System, and Transportation System. My responsibilities cover business workflow design, system integration, status tracking, reporting, production support, and ongoing improvements based on actual operational needs. For the Truck Inspection System, I also take on the role of Project Owner, overseeing the project from business requirements through implementation and continuous improvement. Additionally, I am **one of the co-developers/contributors to the open-source project [Craft Anything](https://github.com/storytold/craft-anything)** (Clean-room Reverse Engineering & AI Engine).
 
 > 💡 **My mindset** — Turn complicated manual processes into systems that are simple, measurable, and useful.
 
@@ -43,9 +44,10 @@ I build practical software around real business workflows, from requirements and
 | :--: | :-- | :-- |
 | 🚚 | **Truck Inspection** | inspection workflow, repair integration & reporting |
 | 🔧 | **E-Maintenance** | repair requests & mechanic performance |
+| 🦀 | **Craft Anything** | **Open Source Co-Developer** — Clean-room AI Engine built in Rust |
 | 📊 | **Business Systems** | dashboards, Excel/PDF reports & data workflows |
 | ⚡ | **API & Automation** | integrations and repetitive-work reduction |
-| 🧪 | **Modern Backend** | Bun, Node.js, Python/FastAPI & Go |
+| 🧪 | **Modern Backend** | Bun, Node.js, Python/FastAPI, Go & Rust |
 
 ---
 
@@ -59,7 +61,7 @@ I build practical software around real business workflows, from requirements and
 
 **BACKEND**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,bun,python,fastapi,flask,go&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,bun,python,fastapi,flask,go,rust&theme=dark)](https://skillicons.dev)
 
 **UI / DATABASE / DEVOPS**
 
@@ -71,7 +73,7 @@ I build practical software around real business workflows, from requirements and
 
 <br/>
 
-`SQL Server` · `PDO` · `AJAX` · `REST API` · `DataTables` · `SweetAlert2` · `mPDF` · `PHPMailer` · `Docker Compose`
+`Rust` · `SQL Server` · `PDO` · `REST API` · `WebSockets` · `Socket.IO` · `AJAX` · `DataTables` · `SweetAlert2` · `mPDF` · `PHPMailer` · `Docker Compose`
 
 </div>
 
@@ -85,29 +87,49 @@ I build practical software around real business workflows, from requirements and
 
 **Requirement** → **Workflow / Database** → **Development** → **API / System** → **Production** → **Measure & Iterate**
 
-
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 
+### 🏢 Enterprise & Business Systems
+
 | Project | Description | Focus |
 | :--- | :--- | :--- |
 | 🚚 **Truck Inspection System** | Truck inspection & operational management | Ownership · Workflow · Integration |
 | 🔧 [**E-Maintenance**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/EMS) | Online repair request & maintenance | PHP · Database · Reporting |
-| 🎓 [**E-Training System**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/e-Training%20System) | Employee training platform | Web App · Training |
-| 📝 [**Exam Online**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/exam%20online) | Online examination | Web App · Assessment |
-| 🏘️ [**IRKS**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/IRKS) | Housing project management | Business System |
-| 💰 [**MakeMoney**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/MakeMoney) | Income & expense tracking | Finance · Dashboard |
+| 🎓 [**E-Training System**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/e-Training%20System) | Employee training platform | Web App · Training · Enterprise |
+| 🏘️ [**IRKS**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/IRKS) | Housing project management | Business System · Workflow |
+| 💰 [**MakeMoney**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/MakeMoney) | Income & expense tracking | Finance · Analytics · Dashboard |
+
+### 🚀 Open Source & High-Performance Platforms
+
+| Project | Description | Focus |
+| :--- | :--- | :--- |
+| 🦀 [**Craft Anything**](https://github.com/storytold/craft-anything) | Co-developer of Open Source Clean-room AI Engine | Open Source · Co-Developer · Rust |
+| 📱 [**Text-to-Screen**](https://github.com/matavanary/Text-to-Screen) | Real-time event messaging display (1,100+ concurrent users) | WebSockets · Socket.IO · Real-time |
+| 🌐 **Network Monitoring** | Real-time network and port status monitoring with 24h uptime graph | Network · Ping & Port · Real-time Dashboard |
+
+### 🛍️ E-Commerce & Digital Services
+
+| Project | Description | Focus |
+| :--- | :--- | :--- |
+| 🛍️ **China E-commerce Store** | E-commerce platform with TikTok marketing integration & inventory | E-Commerce · TikTok Marketing · Inventory |
+| 🏡 **Real Estate Website** | Property listing and search portal with advanced filtering | Property Search · Multi-Language (TH/EN) |
+| 🚗 **WebDrivingSimulator** | 3D web-based intelligent driving behavior simulation system | 3D Web Graphics · Simulation · Real-time |
+| 📝 [**Exam Online**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/exam%20online) | Online examination platform | Web App · Assessment Engine |
 
 <details>
 <summary><b>📦 More Projects</b></summary>
 <br/>
 
-- 🌐 [Landing Page — Single-Page Website](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/Matavanary001)
+- 👥 **MLM_JC** — Multi-Level Marketing platform with 6-tier VIP compensation engine
+- 🧾 **MakeSlip / MakeSlipV3** — Transaction slip generation and management system with audit log
+- 🎲 **LOTTO-SYSTEM-ENOMBAN** — Number management and recording web app with CSRF protection
+- 🪬 [**AMULET / ENB-AMULET**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/AMULET) — Amulet certification system with QR Code verification & high-res gallery
 - 🔔 [CNACCOUNT — Accounting Office LINE Notification](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/CNACCOUNT)
-- 🪬 [AMULET — Amulet Certification System](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/AMULET)
+- 🌐 [Landing Page — Single-Page Website](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/Matavanary001)
 - 🎒 [Student Helping — Online Student Support](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/StudentHelping)
 
 </details>
