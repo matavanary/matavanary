@@ -98,17 +98,17 @@ location: Thailand 🇹🇭
 | โปรเจค | รายละเอียด | จุดสนใจ |
 | :--- | :--- | :--- |
 | 🚚 **Truck Inspection System** | ระบบตรวจสอบและบริหารงานรถบรรทุก | Ownership · Workflow · Integration |
-| 🔧 [**E-Maintenance**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/EMS) | ระบบแจ้งซ่อมและงานบำรุงรักษา | PHP · Database · Reporting |
-| 🎓 [**E-Training System**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/e-Training%20System) | ระบบฝึกอบรมออนไลน์ขององค์กร | Web App · Training · Enterprise |
-| 🏘️ [**IRKS**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/IRKS) | ระบบบริหารโครงการหมู่บ้าน | Business System · Workflow |
-| 💰 [**MakeMoney**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/MakeMoney) | ระบบบันทึกรายรับรายจ่ายและ Dashboard | Finance · Analytics · Dashboard |
+| 🔧 [**E-Maintenance**] | ระบบแจ้งซ่อมและงานบำรุงรักษา | PHP · Database · Reporting |
+| 🎓 [**E-Training System**] | ระบบฝึกอบรมออนไลน์ขององค์กร | Web App · Training · Enterprise |
+| 🏘️ [**IRKS**] | ระบบบริหารโครงการหมู่บ้าน | Business System · Workflow |
+| 💰 [**MakeMoney**] | ระบบบันทึกรายรับรายจ่ายและ Dashboard | Finance · Analytics · Dashboard |
 
 ### 🚀 โอเพนซอร์สและแพลตฟอร์มประสิทธิภาพสูง (Open Source & High-Performance Platforms)
 
 | โปรเจค | รายละเอียด | จุดสนใจ |
 | :--- | :--- | :--- |
 | 🦀 [**Craft Anything**](https://github.com/storytold/craft-anything) | 1 ในผู้ร่วมพัฒนา Clean-room AI Engine (Open Source) | Open Source · Co-Developer · Rust |
-| 📱 [**Text-to-Screen**](https://github.com/matavanary/Text-to-Screen) | ระบบส่งข้อความขึ้นจอภาพในงานอีเวนต์แบบเรียลไทม์ (1,100+ ผู้ใช้พร้อมกัน) | WebSockets · Socket.IO · Real-time |
+| 📱 [**Text-to-Screen**] | ระบบส่งข้อความขึ้นจอภาพในงานอีเวนต์แบบเรียลไทม์ (1,100+ ผู้ใช้พร้อมกัน) | WebSockets · Socket.IO · Real-time |
 | 🌐 **Network Monitoring** | ระบบตรวจสอบสถานะเครือข่ายและพอร์ตแบบเรียลไทม์ พร้อมกราฟ Uptime 24 ชม. | Network · Ping & Port · Real-time Dashboard |
 
 ### 🛍️ อีคอมเมิร์ซและบริการดิจิทัล (E-Commerce & Digital Portals)
@@ -118,7 +118,7 @@ location: Thailand 🇹🇭
 | 🛍️ **China E-commerce Store** | แพลตฟอร์มร้านค้าออนไลน์สินค้านำเข้าจากจีน พร้อมระบบสต็อกและ TikTok Integration | E-Commerce · TikTok Marketing · Inventory |
 | 🏡 **Real Estate Website** | เว็บไซต์ค้นหาและจัดการอสังหาริมทรัพย์ในไทย พร้อมระบบคัดกรองขั้นสูง | Property Search · Multi-Language (TH/EN) |
 | 🚗 **WebDrivingSimulator** | ระบบจำลองและประเมินพฤติกรรมการขับขี่อัจฉริยะแบบ 3D บนเว็บ | 3D Web Graphics · Simulation · Real-time |
-| 📝 [**Exam Online**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/exam%20online) | ระบบสอบและประเมินผลออนไลน์ | Web App · Assessment Engine |
+| 📝 [**Exam Online**] | ระบบสอบและประเมินผลออนไลน์ | Web App · Assessment Engine |
 
 <details>
 <summary><b>📦 ดูโปรเจกต์เพิ่มเติม</b></summary>
@@ -127,10 +127,10 @@ location: Thailand 🇹🇭
 - 👥 **MLM_JC** — แพลตฟอร์มบริหารสายงานสมาชิก MLM พร้อมระบบคำนวณผลตอบแทน VIP 6 ระดับ
 - 🧾 **MakeSlip / MakeSlipV3** — ระบบสร้างและจัดการสลิปธุรกรรมทางการเงิน พร้อมระบบสมาชิกและ Audit Log
 - 🎲 **LOTTO-SYSTEM-ENOMBAN** — ระบบบันทึกและจัดการตัวเลข พร้อม Dashboard และระบบความปลอดภัย CSRF
-- 🪬 [**AMULET / ENB-AMULET**](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/AMULET) — ระบบตรวจสอบและรับรองพระเครื่องออนไลน์ พร้อม QR Code & ภาพความละเอียดสูง
-- 🔔 [CNACCOUNT — การแจ้งเตือน LINE ของสำนักงานบัญชี](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/CNACCOUNT)
-- 🌐 [Landing Page — เว็บไซต์หน้าเดียว](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/Matavanary001)
-- 🎒 [Student Helping — การสนับสนุนนักเรียนออนไลน์](https://github.com/matavanary/MY_PROJECT/tree/main/TOTAL/StudentHelping)
+- 🪬 [**AMULET / ENB-AMULET**] — ระบบตรวจสอบและรับรองพระเครื่องออนไลน์ พร้อม QR Code & ภาพความละเอียดสูง
+- 🔔 [CNACCOUNT — การแจ้งเตือน LINE ของสำนักงานบัญชี]
+- 🌐 [Landing Page — เว็บไซต์หน้าเดียว]
+- 🎒 [Student Helping — การสนับสนุนนักเรียนออนไลน์]
 
 </details>
 
