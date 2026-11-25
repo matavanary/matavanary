@@ -110,7 +110,7 @@ location: Thailand 🇹🇭
 | :--- | :--- | :--- |
 | 🦀 [**Craft Anything**](https://github.com/storytold/craft-anything) | 1 ในผู้ร่วมพัฒนา Clean-room AI Engine (Open Source) | Open Source · Co-Developer · Rust |
 | ⚙️ [**Rust Anything**](https://github.com/erkamyaman/rust-anything) | 1 ในผู้ร่วมพัฒนาเครื่องมือ Rewrite โค้ดสู่ Pure Rust & MCP Server | Open Source · Co-Developer · Rust · MCP |
-| 📱 [**Text-to-Screen**](https://github.com/matavanary/Text-to-Screen) | ระบบส่งข้อความขึ้นจอภาพในงานอีเวนต์แบบเรียลไทม์ (1,100+ ผู้ใช้พร้อมกัน) | WebSockets · Socket.IO · Real-time |
+| 📱 **Text-to-Screen** | ระบบส่งข้อความขึ้นจอภาพในงานอีเวนต์แบบเรียลไทม์ (1,100+ ผู้ใช้พร้อมกัน) | WebSockets · Socket.IO · Real-time |
 | 🌐 **Network Monitoring** | ระบบตรวจสอบสถานะเครือข่ายและพอร์ตแบบเรียลไทม์ พร้อมกราฟ Uptime 24 ชม. | Network · Ping & Port · Real-time Dashboard |
 
 ### 🛍️ อีคอมเมิร์ซและบริการดิจิทัล (E-Commerce & Digital Portals)
