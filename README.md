@@ -2,7 +2,7 @@
 
 ![Matavanary Studio](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,45:203A43,100:6C63FF&height=230&section=header&text=MATAVANARY%20STUDIO&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%E2%80%A2%20System%20Builder%20%E2%80%A2%20Project%20Owner&descAlignY=56&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=850&color=8B83FF&center=true&vCenter=true&width=780&lines=Building+systems+that+solve+real-world+problems;PHP+%7C+Rust+%7C+MySQL+%7C+SQL+Server+%7C+WebSockets;Backend+%7C+API+%7C+System+Integration+%7C+Automation;Co-Developer+%40+Craft+Anything+%F0%9F%A6%80;From+business+requirements+to+production+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=850&color=8B83FF&center=true&vCenter=true&width=780&lines=Building+systems+that+solve+real-world+problems;PHP+%7C+Rust+%7C+MySQL+%7C+SQL+Server+%7C+WebSockets;Backend+%7C+API+%7C+System+Integration+%7C+Automation;Co-Developer+%40+Craft+Anything+%26+Rust+Anything+%F0%9F%A6%80;From+business+requirements+to+production+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,11 +28,11 @@ role: Senior PHP Programmer / Project Owner
 focus: [Backend, API, Business Systems, Integration, Automation]
 core: [PHP, MySQL, SQL Server, JavaScript]
 exploring: [Bun, Node.js, Python, Golang, Rust]
-open_source: [Co-Developer of Craft Anything]
+open_source: [Co-Developer of Craft Anything, Co-Developer of Rust Anything]
 location: Thailand 🇹🇭
 ```
 
-I build practical software around real business workflows, from requirements and database design to APIs, dashboards, automation, and deployment. I am currently responsible for developing, maintaining, and continuously improving production systems actively used within the organization, including a Repair Request System, Truck Inspection System, Online Training System, Work Tracking System, and Transportation System. My responsibilities cover business workflow design, system integration, status tracking, reporting, production support, and ongoing improvements based on actual operational needs. For the Truck Inspection System, I also take on the role of Project Owner, overseeing the project from business requirements through implementation and continuous improvement. Additionally, I am **one of the co-developers/contributors to the open-source project [Craft Anything](https://github.com/storytold/craft-anything)** (Clean-room Reverse Engineering & AI Engine).
+I build practical software around real business workflows, from requirements and database design to APIs, dashboards, automation, and deployment. I am currently responsible for developing, maintaining, and continuously improving production systems actively used within the organization, including a Repair Request System, Truck Inspection System, Online Training System, Work Tracking System, and Transportation System. My responsibilities cover business workflow design, system integration, status tracking, reporting, production support, and ongoing improvements based on actual operational needs. For the Truck Inspection System, I also take on the role of Project Owner, overseeing the project from business requirements through implementation and continuous improvement. Additionally, I am **one of the co-developers/contributors to open-source projects including [Craft Anything](https://github.com/storytold/craft-anything)** (Clean-room Reverse Engineering & AI Engine) and **[Rust Anything](https://github.com/erkamyaman/rust-anything)** (Incremental Code Rewrite into Pure Rust & MCP Tool).
 
 > 💡 **My mindset** — Turn complicated manual processes into systems that are simple, measurable, and useful.
 
@@ -45,6 +45,7 @@ I build practical software around real business workflows, from requirements and
 | 🚚 | **Truck Inspection** | inspection workflow, repair integration & reporting |
 | 🔧 | **E-Maintenance** | repair requests & mechanic performance |
 | 🦀 | **Craft Anything** | **Open Source Co-Developer** — Clean-room AI Engine built in Rust |
+| ⚙️ | **Rust Anything** | **Open Source Co-Developer** — Incremental code rewrite into pure Rust & MCP tool |
 | 📊 | **Business Systems** | dashboards, Excel/PDF reports & data workflows |
 | ⚡ | **API & Automation** | integrations and repetitive-work reduction |
 | 🧪 | **Modern Backend** | Bun, Node.js, Python/FastAPI, Go & Rust |
@@ -108,7 +109,8 @@ I build practical software around real business workflows, from requirements and
 | Project | Description | Focus |
 | :--- | :--- | :--- |
 | 🦀 [**Craft Anything**](https://github.com/storytold/craft-anything) | Co-developer of Open Source Clean-room AI Engine | Open Source · Co-Developer · Rust |
-| 📱 [**Text-to-Screen**] | Real-time event messaging display (1,100+ concurrent users) | WebSockets · Socket.IO · Real-time |
+| ⚙️ [**Rust Anything**](https://github.com/erkamyaman/rust-anything) | Co-developer of Incremental Code Rewrite into Pure Rust & MCP Tool | Open Source · Co-Developer · Rust · MCP |
+| 📱 [**Text-to-Screen**](https://github.com/matavanary/Text-to-Screen) | Real-time event messaging display (1,100+ concurrent users) | WebSockets · Socket.IO · Real-time |
 | 🌐 **Network Monitoring** | Real-time network and port status monitoring with 24h uptime graph | Network · Ping & Port · Real-time Dashboard |
 
 ### 🛍️ E-Commerce & Digital Services
