@@ -110,7 +110,7 @@ I build practical software around real business workflows, from requirements and
 | :--- | :--- | :--- |
 | 🦀 [**Craft Anything**](https://github.com/storytold/craft-anything) | Co-developer of Open Source Clean-room AI Engine | Open Source · Co-Developer · Rust |
 | ⚙️ [**Rust Anything**](https://github.com/erkamyaman/rust-anything) | Co-developer of Incremental Code Rewrite into Pure Rust & MCP Tool | Open Source · Co-Developer · Rust · MCP |
-| 📱 [**Text-to-Screen**](https://github.com/matavanary/Text-to-Screen) | Real-time event messaging display (1,100+ concurrent users) | WebSockets · Socket.IO · Real-time |
+| 📱 **Text-to-Screen** | Real-time event messaging display (1,100+ concurrent users) | WebSockets · Socket.IO · Real-time |
 | 🌐 **Network Monitoring** | Real-time network and port status monitoring with 24h uptime graph | Network · Ping & Port · Real-time Dashboard |
 
 ### 🛍️ E-Commerce & Digital Services
